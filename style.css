@@ -34,7 +34,7 @@ p {
 h1.hello-h1 {
     font-weight: 400;
     margin-bottom: -33px;
-    padding-top: 70px;
+    padding-top: 40px;
 }
 .name_h1 {
     font-weight: 900;
@@ -56,10 +56,11 @@ h1.hello-h1 {
     background: url(image/header-bg.png);
     display: inline-block;
     background-size: cover;
+    padding-top: 45px;
 }
 .bio-h2 {
     
-    margin-top: 150px;
+    margin-top: 109px;
 }
 
 .bio-section {
@@ -150,7 +151,7 @@ p.client-say {
 }
 footer{
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
 }
 footer p{
     margin: 10px;
