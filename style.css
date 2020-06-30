@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1 {
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    color: #3d3b3b;
+    font-weight: 400;
+}
+p {
+    color: gray;
+    line-height: 27px;
+    margin-bottom: 52px;
+}
+}
+.hello-h1 {
+   font-weight: 200;
+   margin-bottom: -29px;
+}
+h1.hello-h1 {
+    font-weight: 400;
+    margin-bottom: -33px;
+    padding-top: 70px;
+}
+.name_h1 {
+    font-weight: 900;
+    letter-spacing: 3px;
+    color: #ff3a7a;
+}
+.half-width img {
+    width: 100%;
+}
+.anchor-button {
+    text-decoration: none;
+    padding: 15px 45px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, #ff72a0, #ff3a7a);
+}
+.top-header {
+    background: url(image/header-bg.png);
+    display: inline-block;
+    background-size: cover;
+}
+.bio-h2 {
+    
+    margin-top: 150px;
+}
+
+.bio-section {
+    background: url(image/biography-bg.png);
+    display: inline-block;
+    background-size: cover;
+}
+
+h2.middle-h2 {
+    text-align: center;
+}
+.latest-work-image img {
+    width: 30%;
+    padding: 10px;
+}
+.latest-work-image {
+    margin: 0 10%;
+}
+section.latest-work {
+    background: url(image/latest-work-bg.png);
+    display: inline-block;
+    background-size: cover;
+}
+.what-clint-say{ 
+    background: url(image/footer-bg.png);
+    background-size: cover;}
+h3.client-name {
+    font-size: 17px;
+    text-align: center;
+    color: gray;
+    margin-bottom: -8px;
+    margin-top: 40px;
+}
+
+h4.client-titel {
+    font-size: 12px;
+    text-align: center;
+    color: gray;
+}
+p.client-say {
+    text-align: center;
+    margin-top: 20px;
+}
+.message-p {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+.phero-link {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+.leave-massage {
+    background-image: linear-gradient(45deg, #fa89af, #ff3a7a);
+    width: 40%;
+    padding: 50px;
+    margin: 0 25%;
+    border-radius: 10px;
+}
+
+.exprience-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    overflow: hidden;
+}
+.single-exprience{
+    box-shadow: 10px 10px 40px gray;
+    height: 350px;
+    background-color: white;
+}
+#baby-exprience{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #fa89af, #ff3a7a);
+    border-image-slice: 1;
+}
+.orange-highlight{
+    color:orange;
+}
+#fullstuck-exprience{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+footer p{
+    margin: 10px;
+}
+
+
+
+
+
+
